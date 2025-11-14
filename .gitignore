@@ -3,3 +3,6 @@
 ## Android Studio/IntelliJ
 .idea
 *.iml
+
+.gradle
+build

@@ -60,7 +60,7 @@ public abstract class DefaultWebServiceWs2 extends DomainsWs2 implements WebServ
     * </a>
     */
     protected static final String USER_AGENT_LIB_VERSION
-    = Version.NAME + "-nusicEdition";
+    = "1.0.0" + "-nusicEdition";
     /**
     * Contact information of this library that will be used as part of the
     * default user agent string.
